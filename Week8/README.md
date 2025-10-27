@@ -36,6 +36,7 @@
   - Faced dimension mismatch errors during label assignment — solved by aligning DataFrame indices properly.
   - Needed to tune the number of clusters (k) using the Elbow Method to find the most suitable value.
   - Adjusted scaling and PCA parameters to achieve cle**arer visualization and meaningful separation between clusters.
+    
 **Project Milestone**
 Successfully applied Unsupervised Learning (K-Means + PCA) on the Fake News Detection dataset to group news articles into clusters based on content similarity.
 This step provided deeper insights into how fake and real news articles differ in their text structure, forming the foundation for future classification improvements.
